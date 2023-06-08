@@ -9,3 +9,7 @@ Dataset for preprocessed images: https://drive.google.com/file/d/1bJnyfFUGcBSrnv
 README Citations: <br />
  - RSNA Pediatric Bone Age Challenge can be found here: https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/rsna-pediatric-bone-age-challenge-2017 <br />
  - Wu, Z., Yang, Y., Gu, J., \ \&  Tresp, V. (2021). Quantifying predictive uncertainty in medical image analysis with deep kernel learning. arXiv preprint arXiv:2106.00638.
+
+
+Code that requires assess: 
+- SVDKL (can be found in zip file too): https://colab.research.google.com/drive/1kT-8SRHh-bnoB6sipknA8pjaA0lL4Xhl?usp=sharing
