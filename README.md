@@ -11,5 +11,5 @@ README Citations: <br />
  - Wu, Z., Yang, Y., Gu, J., \ \&  Tresp, V. (2021). Quantifying predictive uncertainty in medical image analysis with deep kernel learning. arXiv preprint arXiv:2106.00638.
 
 
-Code that requires assess: 
+Code that requires access: 
 - SVDKL (can be found in zip file too): https://colab.research.google.com/drive/1kT-8SRHh-bnoB6sipknA8pjaA0lL4Xhl?usp=sharing
